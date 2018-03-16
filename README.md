@@ -1,1 +1,1 @@
-# Voice Recogniton
+# Voice Recogniton System using wave sound data.
